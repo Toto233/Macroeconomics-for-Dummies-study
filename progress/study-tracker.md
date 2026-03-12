@@ -1,6 +1,6 @@
 # Study Tracker
 
-Last updated: 2026-03-11
+Last updated: 2026-03-12
 
 ## Overall Status
 
@@ -14,7 +14,7 @@ Last updated: 2026-03-11
 | Chapter | Status | Notes |
 | --- | --- | --- |
 | Introduction | Not started | Outline available from epub navigation |
-| Chapter 1 | In progress | Summary and quiz created |
+| Chapter 1 | In progress | Summary and quiz created; discussion now covers GDP, growth, nominal vs real GDP, and why GDP growth can diverge from lived experience |
 | Chapter 2 | Not started | Next likely chapter |
 | Chapter 3 | Not started |  |
 | Chapter 4 | Not started |  |
@@ -52,7 +52,8 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ### Structural Gaps
 
-- no explicit mastery checks answered by the student yet
+- no full Chapter 1 mastery check completed yet
+- real GDP construction still needs reinforcement
 
 ### Partial Understanding
 
@@ -60,7 +61,13 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student already recognizes it as studying the economy at the group or society level
 - GDP:
   - student intuitively sees GDP as an indicator of overall economic "temperature"
-  - distinction from inflation and unemployment is not yet stable
+  - student can distinguish GDP level from growth rate
+  - student can distinguish growth amount from growth rate
+  - student understands that nominal GDP can rise because of prices
+  - student understands that real GDP is the better comparison tool across time
+  - student still needs a cleaner understanding of how real GDP is estimated
+- macro interpretation:
+  - student can see that positive aggregate GDP growth does not guarantee strong household welfare or positive economic sentiment
 
 ## Materials Available
 
@@ -71,7 +78,8 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ## Suggested Next Steps
 
-1. Wait for the student to reread Chapter 1.
-2. Resume with a short comprehension check rather than a full re-explanation.
-3. Clarify the roles of GDP, inflation, and unemployment.
+1. Reinforce nominal GDP versus real GDP with one concrete example.
+2. Continue Chapter 1 discussion on inflation and unemployment.
+3. Run a short Chapter 1 comprehension check.
 4. Based on that result, either reinforce Chapter 1 or move to Chapter 2.
+
