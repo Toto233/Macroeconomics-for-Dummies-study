@@ -1,6 +1,6 @@
 # Study Tracker
 
-Last updated: 2026-03-12
+Last updated: 2026-03-13
 
 ## Overall Status
 
@@ -14,7 +14,7 @@ Last updated: 2026-03-12
 | Chapter | Status | Notes |
 | --- | --- | --- |
 | Introduction | Not started | Outline available from epub navigation |
-| Chapter 1 | In progress | Summary and quiz created; discussion now covers GDP, growth, nominal vs real GDP, and why GDP growth can diverge from lived experience |
+| Chapter 1 | In progress | Discussion now covers GDP, growth, nominal vs real GDP, why GDP growth can diverge from lived experience, and the `Modelling the Economy` section on why models simplify reality |
 | Chapter 2 | Not started | Next likely chapter |
 | Chapter 3 | Not started |  |
 | Chapter 4 | Not started |  |
@@ -44,7 +44,7 @@ Mastery should only be marked after the student can restate, distinguish, and an
 ### Unknown Baseline
 
 - GDP and GDP per capita
-- inflation vs price level
+- inflation vs price level: student can now distinguish them clearly
 - unemployment and labor market frictions
 - policy intuition:
   - monetary policy
@@ -54,6 +54,7 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 - no full Chapter 1 mastery check completed yet
 - real GDP construction still needs reinforcement
+- model usefulness versus model oversimplification needs reinforcement beyond the simple control-variable intuition
 
 ### Partial Understanding
 
@@ -67,7 +68,9 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student understands that real GDP is the better comparison tool across time
   - student still needs a cleaner understanding of how real GDP is estimated
 - macro interpretation:
-  - student can see that positive aggregate GDP growth does not guarantee strong household welfare or positive economic sentiment
+  - student can now see the core logic of isolating one mechanism while holding others fixed
+- measurement intuition:
+  - student can see that positive aggregate GDP growth does not guarantee strong household welfare or positive economic sentiment`r`n  - student is beginning to question whether mean or median is the better summary statistic for comparisons
 
 ## Materials Available
 
@@ -78,8 +81,12 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ## Suggested Next Steps
 
-1. Reinforce nominal GDP versus real GDP with one concrete example.
-2. Continue Chapter 1 discussion on inflation and unemployment.
-3. Run a short Chapter 1 comprehension check.
+1. Run a short understanding check on `Modelling the Economy`.
+2. Reinforce nominal GDP versus real GDP with one concrete example.
+3. Continue Chapter 1 discussion on inflation and unemployment.
 4. Based on that result, either reinforce Chapter 1 or move to Chapter 2.
+
+
+
+
 
