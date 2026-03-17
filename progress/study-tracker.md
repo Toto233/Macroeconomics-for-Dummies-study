@@ -1,6 +1,6 @@
 # Study Tracker
 
-Last updated: 2026-03-16
+Last updated: 2026-03-17
 
 ## Overall Status
 
@@ -15,7 +15,7 @@ Last updated: 2026-03-16
 | --- | --- | --- |
 | Introduction | Not started | Outline available from epub navigation |
 | Chapter 1 | Completed | Guided discussion covered GDP, growth, nominal vs real GDP, inflation, unemployment, labour force concepts, and why models simplify reality |
-| Chapter 2 | In progress | Student has read the big questions section through growth, inflation, and unemployment, but has not yet started `Thinking Like an Economist: Learning to Love Modelling` |
+| Chapter 2 | In progress | Student has now read through `Macro meets micro`; discussion covers growth, inflation, unemployment, modelling, microfoundations, and the opening of real versus nominal concepts |
 | Chapter 3 | Not started |  |
 | Chapter 4 | Not started |  |
 | Chapter 5 | Not started |  |
@@ -81,6 +81,9 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student can restate the book's basic inflation explanation
   - student understands why deflation can create a downward spiral
   - student recalls major unemployment explanations introduced in Chapter 2
+  - student understands why old ad hoc macro models were criticized
+  - student understands the basic idea of microfoundations
+  - student has started real versus nominal and can identify the direction of a real wage change
 
 ## Materials Available
 
@@ -91,9 +94,9 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ## Suggested Next Steps
 
-1. Resume Chapter 2 from `Thinking Like an Economist: Learning to Love Modelling`.
-2. After the next reading block, run a short Chapter 2 recall check.
-3. Later, reinforce real GDP construction with one concrete example when Chapter 4 study begins.
+1. Resume Chapter 2 from `real` versus `nominal`.
+2. Continue `Clarifying Important Macroeconomic Concepts`.
+3. After that, run a short Chapter 2 synthesis check.
 
 
 
