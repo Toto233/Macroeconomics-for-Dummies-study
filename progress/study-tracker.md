@@ -1,6 +1,6 @@
 # Study Tracker
 
-Last updated: 2026-03-17
+Last updated: 2026-03-24
 
 ## Overall Status
 
@@ -15,7 +15,7 @@ Last updated: 2026-03-17
 | --- | --- | --- |
 | Introduction | Not started | Outline available from epub navigation |
 | Chapter 1 | Completed | Guided discussion covered GDP, growth, nominal vs real GDP, inflation, unemployment, labour force concepts, and why models simplify reality |
-| Chapter 2 | In progress | Student has now read through `Macro meets micro`; discussion covers growth, inflation, unemployment, modelling, microfoundations, and the opening of real versus nominal concepts |
+| Chapter 2 | Completed | Student has finished the whole chapter and passed a short synthesis check covering growth levels, modelling, real versus nominal, and interest-rate intuition |
 | Chapter 3 | Not started |  |
 | Chapter 4 | Not started |  |
 | Chapter 5 | Not started |  |
@@ -42,6 +42,16 @@ Chapter 1:
 - student can distinguish inflation from price level
 - student can define unemployment and distinguish it from being out of the labour force
 - student understands that models simplify reality to isolate key mechanisms
+
+Chapter 2:
+
+- student can distinguish level from growth rate
+- student can explain why economists use models
+- student can explain the basic idea of microfoundations
+- student can distinguish real from nominal variables
+- student can distinguish income from wealth
+- student can distinguish stock from flow
+- student can explain why high interest rates tend to lower consumption and investment
 
 Mastery should only be marked after the student can restate, distinguish, and answer recall questions.
 
@@ -71,6 +81,8 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student understands that nominal GDP can rise because of prices
   - student understands that real GDP is the better comparison tool across time
   - student still needs a cleaner understanding of how real GDP is estimated
+  - student has started grappling with why GDP, output, expenditure, and income are treated as equivalent in aggregate accounting
+  - student is skeptical of how accurately inventory and other hard-to-observe items can be measured in practice
 - macro interpretation:
   - student can now see the core logic of isolating one mechanism while holding others fixed
 - measurement intuition:
@@ -83,7 +95,10 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student recalls major unemployment explanations introduced in Chapter 2
   - student understands why old ad hoc macro models were criticized
   - student understands the basic idea of microfoundations
-  - student has started real versus nominal and can identify the direction of a real wage change
+  - student understands the basic distinction between real and nominal variables
+  - student understands income versus wealth
+  - student understands stock versus flow
+  - student still benefits from occasional wording cleanup on interest-rate opportunity cost
 
 ## Materials Available
 
@@ -91,12 +106,15 @@ Mastery should only be marked after the student can restate, distinguish, and an
 - `summaries/study-plan.md`
 - `notes/chapter-01-overview.md`
 - `questions/chapter-01-quiz.md`
+- `notes/chapter-02-overview.md`
+- `questions/chapter-02-quiz.md`
+- `summaries/chapter-02-revision.md`
 
 ## Suggested Next Steps
 
-1. Resume Chapter 2 from `real` versus `nominal`.
-2. Continue `Clarifying Important Macroeconomic Concepts`.
-3. After that, run a short Chapter 2 synthesis check.
+1. Move to Chapter 3.
+2. Revisit interest-rate opportunity cost briefly if it becomes relevant.
+3. Later, reinforce real GDP construction with a concrete example in Chapter 4.
 
 
 
