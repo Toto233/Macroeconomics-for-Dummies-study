@@ -1,11 +1,11 @@
 # Study Tracker
 
-Last updated: 2026-03-24
+Last updated: 2026-03-26
 
 ## Overall Status
 
 - Current book stage: Part I
-- Current working chapter: Chapter 2
+- Current working chapter: Chapter 3
 - Study system status: initialized
 - Epub parsing status: confirmed working
 
@@ -16,7 +16,7 @@ Last updated: 2026-03-24
 | Introduction | Not started | Outline available from epub navigation |
 | Chapter 1 | Completed | Guided discussion covered GDP, growth, nominal vs real GDP, inflation, unemployment, labour force concepts, and why models simplify reality |
 | Chapter 2 | Completed | Student has finished the whole chapter and passed a short synthesis check covering growth levels, modelling, real versus nominal, and interest-rate intuition |
-| Chapter 3 | Not started |  |
+| Chapter 3 | In progress | Student has read through `Soaring to an Understanding of Hyperinflation`; current understanding covers recession, inflation damage, hyperinflation, and money versus real wealth |
 | Chapter 4 | Not started |  |
 | Chapter 5 | Not started |  |
 | Chapter 6 | Not started |  |
@@ -99,6 +99,12 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student understands income versus wealth
   - student understands stock versus flow
   - student still benefits from occasional wording cleanup on interest-rate opportunity cost
+- Chapter 3:
+  - student understands recession as a fall in economy-wide output and activity
+  - student understands that severe inflation damages money's core functions
+  - student understands hyperinflation as a collapse in confidence in holding money
+  - student understands that money creation alone does not create real wealth
+  - student still needs cleaner handling of real-change calculations when nominal values and prices both move
 
 ## Materials Available
 
@@ -112,8 +118,8 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ## Suggested Next Steps
 
-1. Move to Chapter 3.
-2. Revisit interest-rate opportunity cost briefly if it becomes relevant.
+1. Continue Chapter 3 from the next unread section.
+2. Revisit real versus nominal change calculations only when they become useful again.
 3. Later, reinforce real GDP construction with a concrete example in Chapter 4.
 
 
