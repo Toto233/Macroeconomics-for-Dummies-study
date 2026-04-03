@@ -1,11 +1,11 @@
 # Study Tracker
 
-Last updated: 2026-03-26
+Last updated: 2026-04-03
 
 ## Overall Status
 
 - Current book stage: Part I
-- Current working chapter: Chapter 3
+- Current working chapter: Chapter 4
 - Study system status: initialized
 - Epub parsing status: confirmed working
 
@@ -16,8 +16,8 @@ Last updated: 2026-03-26
 | Introduction | Not started | Outline available from epub navigation |
 | Chapter 1 | Completed | Guided discussion covered GDP, growth, nominal vs real GDP, inflation, unemployment, labour force concepts, and why models simplify reality |
 | Chapter 2 | Completed | Student has finished the whole chapter and passed a short synthesis check covering growth levels, modelling, real versus nominal, and interest-rate intuition |
-| Chapter 3 | In progress | Student has read through `Soaring to an Understanding of Hyperinflation`; current understanding covers recession, inflation damage, hyperinflation, and money versus real wealth |
-| Chapter 4 | Not started |  |
+| Chapter 3 | Completed | Student finished the chapter with a solid grasp of recession, hyperinflation, financial crises, unemployment links, and crisis transmission mechanisms |
+| Chapter 4 | In progress | Student has completed `Grasping the Idea of GDP`; current understanding includes final versus intermediate goods, inventory treatment, and GDP's limits as a welfare or quality measure |
 | Chapter 5 | Not started |  |
 | Chapter 6 | Not started |  |
 | Chapter 7 | Not started |  |
@@ -52,6 +52,13 @@ Chapter 2:
 - student can distinguish income from wealth
 - student can distinguish stock from flow
 - student can explain why high interest rates tend to lower consumption and investment
+
+Chapter 3:
+
+- student can distinguish recession, financial crisis, and hyperinflation
+- student can explain why financial crises can spread through credit and balance-sheet links
+- student can explain why governments often rescue banks during crises
+- student understands that money creation alone does not create real wealth
 
 Mastery should only be marked after the student can restate, distinguish, and answer recall questions.
 
@@ -104,7 +111,16 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student understands that severe inflation damages money's core functions
   - student understands hyperinflation as a collapse in confidence in holding money
   - student understands that money creation alone does not create real wealth
+  - student understands that crisis responses can differ depending on whether money flows into assets or everyday goods
+  - student understands that low-return investment can support current GDP without building lasting wealth
+  - student understands debt rollover as a path toward either sudden crisis or long stagnation
   - student still needs cleaner handling of real-change calculations when nominal values and prices both move
+- Chapter 4:
+  - student understands why GDP counts final goods and services rather than all transactions
+  - student understands why prices are used to aggregate unlike goods
+  - student understands inventory treatment in GDP at a conceptual level
+  - student understands that GDP records production activity rather than production quality
+  - student remains skeptical about the practical precision of GDP measurement, especially for inventory and usage classification
 
 ## Materials Available
 
@@ -118,9 +134,9 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ## Suggested Next Steps
 
-1. Continue Chapter 3 from the next unread section.
-2. Revisit real versus nominal change calculations only when they become useful again.
-3. Later, reinforce real GDP construction with a concrete example in Chapter 4.
+1. Continue Chapter 4 from `Getting Out What You (Marginally) Put In`.
+2. Reinforce real GDP construction later in the GDP chapter.
+3. Revisit GDP limitations when the book turns to living standards and welfare.
 
 
 
