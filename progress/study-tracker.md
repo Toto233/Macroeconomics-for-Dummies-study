@@ -1,6 +1,6 @@
 # Study Tracker
 
-Last updated: 2026-04-03
+Last updated: 2026-04-09
 
 ## Overall Status
 
@@ -17,7 +17,7 @@ Last updated: 2026-04-03
 | Chapter 1 | Completed | Guided discussion covered GDP, growth, nominal vs real GDP, inflation, unemployment, labour force concepts, and why models simplify reality |
 | Chapter 2 | Completed | Student has finished the whole chapter and passed a short synthesis check covering growth levels, modelling, real versus nominal, and interest-rate intuition |
 | Chapter 3 | Completed | Student finished the chapter with a solid grasp of recession, hyperinflation, financial crises, unemployment links, and crisis transmission mechanisms |
-| Chapter 4 | In progress | Student has completed `Grasping the Idea of GDP`; current understanding includes final versus intermediate goods, inventory treatment, and GDP's limits as a welfare or quality measure |
+| Chapter 4 | In progress | Student has read through `Why do people risk their lives to cross borders?`; current understanding includes GDP accounting logic, marginal product intuition, and the difference between GDP, GDP per capita, and living standards |
 | Chapter 5 | Not started |  |
 | Chapter 6 | Not started |  |
 | Chapter 7 | Not started |  |
@@ -121,6 +121,9 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student understands inventory treatment in GDP at a conceptual level
   - student understands that GDP records production activity rather than production quality
   - student remains skeptical about the practical precision of GDP measurement, especially for inventory and usage classification
+  - student understands the broad logic linking wages to labour's marginal product in the competitive model
+  - student understands why GDP per capita is usually better than total GDP for comparing average living standards
+  - student understands that living standards remain broader than GDP-based measures
 
 ## Materials Available
 
@@ -134,9 +137,9 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ## Suggested Next Steps
 
-1. Continue Chapter 4 from `Getting Out What You (Marginally) Put In`.
-2. Reinforce real GDP construction later in the GDP chapter.
-3. Revisit GDP limitations when the book turns to living standards and welfare.
+1. Continue Chapter 4 from the next unread section.
+2. Reinforce the expenditure-side decomposition of GDP later in the chapter.
+3. Revisit GDP limitations when the book turns again to living standards and welfare.
 
 
 
