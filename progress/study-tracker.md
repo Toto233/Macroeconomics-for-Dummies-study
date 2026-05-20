@@ -1,6 +1,6 @@
 # Study Tracker
 
-Last updated: 2026-04-09
+Last updated: 2026-05-20
 
 ## Overall Status
 
@@ -17,8 +17,8 @@ Last updated: 2026-04-09
 | Chapter 1 | Completed | Guided discussion covered GDP, growth, nominal vs real GDP, inflation, unemployment, labour force concepts, and why models simplify reality |
 | Chapter 2 | Completed | Student has finished the whole chapter and passed a short synthesis check covering growth levels, modelling, real versus nominal, and interest-rate intuition |
 | Chapter 3 | Completed | Student finished the chapter with a solid grasp of recession, hyperinflation, financial crises, unemployment links, and crisis transmission mechanisms |
-| Chapter 4 | In progress | Student has read through `Why do people risk their lives to cross borders?`; current understanding includes GDP accounting logic, marginal product intuition, and the difference between GDP, GDP per capita, and living standards |
-| Chapter 5 | Not started |  |
+| Chapter 4 | In progress | Student has a solid working grasp of GDP, GDP per capita, living standards, inventory logic, and the broad intuition linking wages to marginal product; chapter wrap-up note still remains incomplete in the repo |
+| Chapter 5 | In progress | Student has read through the CPI basket section and basic comparison of CPI, RPI, and GDP deflator; current understanding includes weights, quality adjustment, shrinkflation, and the mortgage-interest distinction |
 | Chapter 6 | Not started |  |
 | Chapter 7 | Not started |  |
 | Chapter 8 | Not started |  |
@@ -124,6 +124,13 @@ Mastery should only be marked after the student can restate, distinguish, and an
   - student understands the broad logic linking wages to labour's marginal product in the competitive model
   - student understands why GDP per capita is usually better than total GDP for comparing average living standards
   - student understands that living standards remain broader than GDP-based measures
+  - student can connect migration incentives to differences in expected living standards rather than raw GDP totals
+- Chapter 5:
+  - student understands why CPI uses a representative basket
+  - student understands that CPI weights reflect expenditure shares
+  - student understands why quality change and shrinkflation complicate inflation measurement
+  - student understands the basic distinction between CPI, RPI, and GDP deflator
+  - student understands that mortgage interest payments are a key remembered difference between RPI and CPI
 
 ## Materials Available
 
@@ -137,9 +144,9 @@ Mastery should only be marked after the student can restate, distinguish, and an
 
 ## Suggested Next Steps
 
-1. Continue Chapter 4 from the next unread section.
-2. Reinforce the expenditure-side decomposition of GDP later in the chapter.
-3. Revisit GDP limitations when the book turns again to living standards and welfare.
+1. Continue Chapter 5 from the next unread section.
+2. Revisit the expenditure-side decomposition of GDP later when useful.
+3. Later, compress CPI, RPI, and GDP deflator into one short comparison block.
 
 
 
